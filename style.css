@@ -5,7 +5,7 @@
 }
 
 nav,
-main {
+section {
   display: flex;
   justify-content: space-between;
   width: 375px;
@@ -13,7 +13,7 @@ main {
   margin: 0 auto;
 }
 
-main {
+section {
   background-image: url("illustration.png");
   flex-direction: column;
   background-color: #1c1a19;
